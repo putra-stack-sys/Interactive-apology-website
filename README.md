@@ -124,7 +124,7 @@ say-sorry-website/
 ### **Installation**
 
 ```bash
-git clone https://github.com/your-username/romantic-sorry-website.git
+git clone https://github.com/putra-stuck-sys/romantic-sorry-website.git
 cd romantic-sorry-website
 npm install
 ```
