@@ -24,7 +24,7 @@
 //       {/* Question Card */}
 //       <div className="bg-white/90 backdrop-blur-xl rounded-[3rem] p-14 shadow-2xl text-center max-w-xl w-full">
 //         <h2 className="text-4xl font-semibold text-gray-700 mb-12">
-//           Kya ab tumhari narazgi chali gyi? 🥺
+//           are you okey rightnow? 🥺
 //         </h2>
 
 //         <div className="flex items-center justify-center gap-12 relative">
@@ -56,7 +56,7 @@
 
 //         {noClicks >= 4 && (
 //           <p className="mt-10 text-lg text-gray-500 italic">
-//             Lagta hai jawab mil hi gaya… 😌💖
+//             now there is only one answer left… 😌💖
 //           </p>
 //         )}
 //       </div>
@@ -103,7 +103,7 @@ const Question = ({ onYes }) => {
       <div className="relative bg-white/90 backdrop-blur-xl rounded-[3rem] p-14 shadow-2xl text-center max-w-xl w-full">
 
         <h2 className="text-4xl font-semibold text-gray-700 mb-14">
-          Kya ab tumhari narazagi kahatm ho gyii? 🥺
+          are you okey rightnow? 🥺
         </h2>
 
         {/* Button Area */}
@@ -147,7 +147,7 @@ const Question = ({ onYes }) => {
         {/* Cute message after No disappears */}
         {noClicks >= 5 && (
           <p className="mt-10 text-lg text-gray-500 italic">
-            Ab to sirf ek hi jawab bachta hai… 😌💖
+            now there is only one answer left… 😌💖
           </p>
         )}
       </div>
